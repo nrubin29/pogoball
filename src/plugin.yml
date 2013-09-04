@@ -1,0 +1,11 @@
+name: PogoBall
+version: 1.0
+main: me.pogostick29dev.pogoball.PogoBall
+author: PogoStick29
+description: A fully functional paintball plugin!
+
+commands:
+    pogoball:
+        usage: /<command> <args> [optional args]
+        aliases: [pb]
+        description: PogoBall command.
